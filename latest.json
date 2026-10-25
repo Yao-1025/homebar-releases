@@ -1,0 +1,22 @@
+{
+  "version": "1.6.5",
+  "date": "2026-10-21",
+  "notes": "· 安装包和更新改由 GitHub 发布（免费、不限流量）\n· 下载页：yao-1025.github.io/homebar-releases",
+  "page": "https://yao-1025.github.io/homebar-releases/",
+  "downloads": {
+    "arm64": "https://github.com/Yao-1025/homebar-releases/releases/download/v1.6.5/Homebar-1.6.5-apple-silicon.zip",
+    "x64": "https://github.com/Yao-1025/homebar-releases/releases/download/v1.6.5/Homebar-1.6.5-intel.zip"
+  },
+  "files": {
+    "arm64": {
+      "url": "https://github.com/Yao-1025/homebar-releases/releases/download/v1.6.5/Homebar-1.6.5-apple-silicon.zip",
+      "sha256": "4333a13ff5f6d8b2148dbeed69cce5edc2dd643f0c4d056ae21d5942a130d87c",
+      "size": 108734352
+    },
+    "x64": {
+      "url": "https://github.com/Yao-1025/homebar-releases/releases/download/v1.6.5/Homebar-1.6.5-intel.zip",
+      "sha256": "3af85343ebc497beacd4f41e9b08c674ace4b22291433413d30e727e7202937c",
+      "size": 115173740
+    }
+  }
+}
